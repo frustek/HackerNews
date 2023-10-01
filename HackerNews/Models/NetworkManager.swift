@@ -29,7 +29,7 @@ class NetworkManager {
                         
                     } else
                     {
-                        print("error occured!!!")
+                        print("error occured!")
                     }
             }
             task.resume()
